@@ -1,0 +1,22 @@
+{
+  "name": "electron-demo",
+  "version": "0.0.1",
+  "description": "electron demo for ide",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Afantor/Electron-demo",
+  "keywords": [
+    "electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "afantor",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
